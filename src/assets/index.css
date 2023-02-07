@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  background: #212529;
+  padding: 50px;
+}
+
+.options-wrapper {
+  gap: 40px;
+  display: flex;
+  align-items: flex-end;
+}
